@@ -1,0 +1,4 @@
+Title: My First Blog Post
+Date: 2023-10-05
+Author: Peter
+This is the content of my first blog post. I am excited to start this journey and share my thoughts with the world. Stay tuned for more updates!
